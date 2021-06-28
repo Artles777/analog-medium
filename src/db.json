@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Про дизайн из Lorem",
+      "description": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации \"Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст..\" Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам \"lorem ipsum\" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий. Некоторые версии появились по ошибке, некоторые - намеренно (например, юмористические варианты). текст Изменён.",
+      "claps": 29,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2021-06-28T17:59:01.169Z",
+      "userId": 1
+    },
+    {
+      "title": "Где взять лорем ипсум?",
+      "description": "Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь. Если вам нужен Lorem Ipsum для серьёзного проекта, вы наверняка не хотите какой-нибудь шутки, скрытой в середине абзаца. Также все другие известные генераторы Lorem Ipsum используют один и тот же текст, который они просто повторяют, пока не достигнут нужный объём. Это делает предлагаемый здесь генератор единственным настоящим Lorem Ipsum генератором. Он использует словарь из более чем 200 латинских слов, а также набор моделей предложений. В результате сгенерированный Lorem Ipsum выглядит правдоподобно, не имеет повторяющихся абзацев или \"невозможных\" слов.",
+      "claps": 13,
+      "createdAt": "2021-06-27T12:43:05.058Z",
+      "updateAt": "2021-06-27T14:14:44.331Z",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "tert",
+      "description": "rtytr",
+      "claps": 2,
+      "createdAt": "2021-06-27T16:33:11.154Z",
+      "updateAt": "2021-06-27T16:33:11.154Z",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "title": "ertert",
+      "description": "ertert",
+      "claps": 0,
+      "createdAt": "2021-06-28T07:47:48.493Z",
+      "updateAt": "2021-06-28T07:47:48.493Z",
+      "userId": 2,
+      "id": 59
+    },
+    {
+      "title": "ertert",
+      "description": "ertert",
+      "claps": 0,
+      "createdAt": "2021-06-28T07:48:07.806Z",
+      "updateAt": "2021-06-28T07:48:07.806Z",
+      "userId": 2,
+      "id": 60
+    },
+    {
+      "title": "hfgh",
+      "description": "fhgfh",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:07:12.329Z",
+      "updateAt": "2021-06-28T08:07:12.329Z",
+      "userId": 2,
+      "id": 72
+    },
+    {
+      "title": "fhfgh",
+      "description": "fghfgh",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:07:18.745Z",
+      "updateAt": "2021-06-28T08:07:18.745Z",
+      "userId": 2,
+      "id": 73
+    },
+    {
+      "title": "fghgf",
+      "description": "gfhgf",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:30:14.175Z",
+      "updateAt": "2021-06-28T08:30:14.175Z",
+      "userId": 2,
+      "id": 80
+    },
+    {
+      "title": "fdhgf",
+      "description": "dfhfgh",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:41:05.451Z",
+      "updateAt": "2021-06-28T08:41:05.451Z",
+      "userId": 2,
+      "id": 81
+    },
+    {
+      "title": "dhf",
+      "description": "dfhfdh",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:41:09.155Z",
+      "updateAt": "2021-06-28T08:41:09.155Z",
+      "userId": 2,
+      "id": 82
+    },
+    {
+      "title": "dfgfdg",
+      "description": "dfgdfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:42:52.224Z",
+      "updateAt": "2021-06-28T08:42:52.224Z",
+      "userId": 2,
+      "id": 83
+    },
+    {
+      "title": "dfgfd",
+      "description": "dgdfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:42:55.164Z",
+      "updateAt": "2021-06-28T08:42:55.164Z",
+      "userId": 2,
+      "id": 84
+    },
+    {
+      "title": "gfhfg",
+      "description": "fdhgfdg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:42:58.584Z",
+      "updateAt": "2021-06-28T08:42:58.584Z",
+      "userId": 2,
+      "id": 85
+    },
+    {
+      "title": "dfgfdg",
+      "description": "fdgdfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:01.687Z",
+      "updateAt": "2021-06-28T08:43:01.687Z",
+      "userId": 2,
+      "id": 86
+    },
+    {
+      "title": "dfgdfg",
+      "description": "",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:04.214Z",
+      "updateAt": "2021-06-28T08:43:04.214Z",
+      "userId": 2,
+      "id": 87
+    },
+    {
+      "title": "dfgfd",
+      "description": "fdgdfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:08.022Z",
+      "updateAt": "2021-06-28T08:43:08.022Z",
+      "userId": 2,
+      "id": 88
+    },
+    {
+      "title": "gfd",
+      "description": "dfgfdg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:13.077Z",
+      "updateAt": "2021-06-28T08:43:13.077Z",
+      "userId": 2,
+      "id": 89
+    },
+    {
+      "title": "ertret",
+      "description": "ertert",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:18.807Z",
+      "updateAt": "2021-06-28T08:43:18.807Z",
+      "userId": 2,
+      "id": 90
+    },
+    {
+      "title": "rdgfdg",
+      "description": "dfgdfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:27.120Z",
+      "updateAt": "2021-06-28T08:43:27.120Z",
+      "userId": 2,
+      "id": 91
+    },
+    {
+      "title": "dfgdf",
+      "description": "dfg",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:30.043Z",
+      "updateAt": "2021-06-28T08:43:30.043Z",
+      "userId": 2,
+      "id": 92
+    },
+    {
+      "title": "g",
+      "description": "g",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:32.424Z",
+      "updateAt": "2021-06-28T08:43:32.424Z",
+      "userId": 2,
+      "id": 93
+    },
+    {
+      "title": "g",
+      "description": "g",
+      "claps": 0,
+      "createdAt": "2021-06-28T08:43:35.094Z",
+      "updateAt": "2021-06-28T08:43:35.094Z",
+      "userId": 2,
+      "id": 94
+    }
+  ]
+}
